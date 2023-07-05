@@ -33,4 +33,12 @@ function generatePassword() {
     if (numbers === true) {
      passwordoptions=passwordoptions.concat(numbs)
     } 
+
+    console.log(passwordoptions)
+    for (let index = 0; index < passwordlength; index++) {
+    newPassword.push(passwordoptions[Math.floor(Math.random()*passwordoptions.length)])
+     console.log(newPassword)
+   
+    }
+   return newPassword.join("")
 }
