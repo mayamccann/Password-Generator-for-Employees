@@ -42,3 +42,8 @@ function generatePassword() {
     }
    return newPassword.join("")
 }
+
+
+// Get references to the #generate element
+var generateBtn = document.querySelector("#generate");
+
