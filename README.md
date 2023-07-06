@@ -73,9 +73,11 @@ The purpose of this assignment was to showcase the HTML and CSS skills that I ha
 
 ## 💡 Hints
 
-This assignment forces you to utilize your CSS skills to create an improved application! Focus on the interactivity of this webpage. 
+This assignment forces you to utilize JavaScript skills to create an interactive webpage that provides assistance in creating passwords for employees!
 
-Appearance is the User's first impression! The appearance is what will allow the user to stay engaged with your webpage. 
+* Focus on generating passwords for many users by allowing a range of password options to be created. 
+* A suggestion is to add as many special characters as possible!
+
 
 
 ## 🏆 Bonus
