@@ -95,7 +95,7 @@ Code Source : applied throughout the entire process of building to our starter c
 
 ## 💡Review
 
-Deployed URL : 
+Deployed URL : https://mayamccann.github.io/Password-Generator-for-Employees/
 
 GitHub URL : https://github.com/mayamccann/Password-Generator-for-Employees
 
