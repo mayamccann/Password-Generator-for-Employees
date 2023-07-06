@@ -49,18 +49,15 @@ THEN when the completed webpage has complete functionality, quality appearance a
 
 ## 💡Mock-Up
 
-The following image shows the web application's appearance and functionality (Browser View on a Desktop): (WILL BE UPDATING WEBPAGE DISPLAY : STATUS : Draft)
+The following image shows the web application's appearance and functionality (Browser View on a Desktop): 
 
-Building a Webpage from Scratch to display My Professional Portfolio!
+Building a Password Generator for Employees when utilizing JavaScript!
 
-![Screenshot (12)](https://github.com/mayamccann/The-Professional-Portfolio/assets/112992245/1c168b5e-a4f4-48f6-b230-d6cb5bc0c3a7)
-
-![Screenshot (13)](https://github.com/mayamccann/The-Professional-Portfolio/assets/112992245/061b6742-c829-433a-8076-32838ba49959)
 
 
 ## 💡Concluding Wrap-Up
 
-The purpose of this assignment was to showcase the HTML and CSS skills that I have gained throughout this Bootcamp. This webpage highlights the depths of HTML and CSS. The overall focus of completing this application is to share it with others within the computer science world. 
+The purpose of this assignment was to showcase the JavaScript skills and methods that I have gained throughout this Bootcamp. In addition, HTML and CSS knowledge was used to allow this code to become functional. This webpage highlights the depths of JavaScript. HTML and CSS is crucial for the webpage's appearance and functionality alongside the JavaScript code. While the intention of this application is to cater to employee passwords, the overall purpose of creating this password generator of this webpage is to share it with others within the computer science world!
 
 ## 💡Grading Requirements Brief Summary
 
