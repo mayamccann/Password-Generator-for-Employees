@@ -10,11 +10,11 @@ For this assignment, the goal is to create a functioning password generator that
 
 ## 🏆 Description
 
-* The purpose of this assignment is to bring one's HTML and CSS skills to the test! This requires advanced CSS knowledge, and it summarizes the most important aspects of what has been learned. Having this webpage, will allow others to learn from you as a developer as well. 
+* The purpose of this assignment is to bring one's JavaScript skills to the test by applying it through a real-world scenario in the professional field! HTML and CSS methods are used to complete this assignment. This requires JavaScript knowledge, and it summarizes the most important aspects of what has been learned. Having this webpage, will allow others to learn from you as a developer as well. 
 
-* Utilizied concepts to complete this assignment included knowledge and learning regarding GitHub, HTML, CSS and specific focus on the Git Flow and knowledge about the impact of a website on its Users, Businesses and Developers.
+* Utilizied concepts to complete this assignment included knowledge and learning regarding JavaScript, GitHub, HTML, CSS and specific focus on the Git Flow and knowledge about the impact of JavaScript and how it benefits professional businesses. 
 
-* The initial webpage introduces the user to the webage browser tab, the navigation bar and its website title. The navigation bar has three main topics relatiing to my profile which include About Me, Work and Contact. The page displays glimpses of projects that have been completed. 
+* The initial webpage introduces the user to the webage's password generator. This functional webpage caters to the needs of employers by allowing employees to generate their own passwords. This webpage highlights the use of JavaScript, and continues to utilize HTML and CSS coding methods.
 
 
 
