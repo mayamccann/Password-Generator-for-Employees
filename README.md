@@ -4,7 +4,7 @@ Utilizing HTML, CSS and JavaScript Methods to Generate Randomized Passwords for 
 
 ## 💡Background 
 
-For this assignment, the goal is to create a professional portfolio to display skills that are learned throughout the UConn Coding Bootcamp. This challenge enforces the use of HTML and CSS methods. The most important aspect of building a portfolio is to showcase and share your skills with those within the computer science community. 
+For this assignment, the goal is to create a functioning password generator that will benefit employees. This challenge embraces the use of knowledge learned throughout the UConn Coding Bootcamp that focuses on JavaScript. HTML and CSS codes are utilized as well. The most important aspect of building this employee password generator is to showcase and share skills used within the computer science world.
 
 
 
