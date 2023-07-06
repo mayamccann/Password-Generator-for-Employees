@@ -23,10 +23,10 @@ For this assignment, the goal is to create a functioning password generator that
 
 ## 💡 User Story
 
-AS A Bootcamp student with backgorund knowledge with HTML and CSS
-I WANT to build a webpage that showcases my professional portfolio
-SO THAT I can create a webpage that offers Users exposure to learning and reviewing the knowledge I have obtained within the computer science field.
-
+AS A Bootcamp student with knowledge with JavaScript, HTML and CSS
+I WANT to build a webpage that showcases my Password Generator
+SO THAT I can share a webpage that offers Users exposure to learning and reviewing the knowledge I have obtained within the computer science field.
+I WANT to focus on catering to a target market of employers, so that my Password Generator can be useful to businesses' employees. 
 
 
 
