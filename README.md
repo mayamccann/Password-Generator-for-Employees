@@ -32,20 +32,19 @@ I WANT to focus on catering to a target market of employers, so that my Password
 
 ## 💡 Acceptance Criteria
 
-GIVEN I need to build a webpage from scratch
-WHEN I begin with HTML and CSS files
-THEN I will begin by defining the document types
-WHEN I start building my code for HTML,
-THEN I will add the HTML semantic elements and element tags
-THEN I will correctly match to the HTML file and its elements in CSS
-THEN I will confirm the validity of the code for my web application by opening the browser and testing the functionality and appearance of the webpage
-WHEN I confirm that all of the navigation bar links are working properly
+GIVEN I must build a webpage catered to employer's employees
+WHEN I identify the importance of building a functional Employee Password Generator
+THEN I will begin with cloning the starter code that provides the JavaScript, HTML and CSS files
+WHEN I will begin by reviewing the codes
+THEN I will start building to the existing code
+WHEN I add variables and functions and if statements to the JS file
+THEN I will test the functionality of the Employee Password Generator on the webpage and use the console of the webpage to identify the arrays and other functional aspects of my JavaScript code
+THEN I will confirm the usefulness of the Employee Password Generator 
+by using it as if I were an employee 
 WHEN I review the layout of the entire webpage 
-THEN I will know it is completed once the Webpage browser tab has a unique title and the links are actively working
+THEN I will test the functionality of the webpage
 WHEN I view the webpage thoroughly and check if the webpage meets all requirments and all instructions are followed 
-THEN when the completed webpage has complete functionality, quality appearance and displays the correct professional information
-
-
+THEN when the completed webpage has complete functionality, quality appearance and displays the proper Employee Password Generator
 
 ## 💡Mock-Up
 
