@@ -1,5 +1,5 @@
-#  🏆 The Professional Portfolio for Maya McCann 🏆
-Applying Advanced CSS Skills to Showcase a Created Web Application 
+#  🏆 Creation of a Password Generator to Benefit Employees 🏆
+Utilizing HTML, CSS and JavaScript Methods to Generate Randomized Passwords for Employee Purpose
 
 
 ## 💡Background 
