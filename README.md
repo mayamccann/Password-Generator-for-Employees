@@ -52,6 +52,9 @@ The following image shows the web application's appearance and functionality (Br
 
 Building a Password Generator for Employees when utilizing JavaScript!
 
+![Password Generator A](https://github.com/mayamccann/Password-Generator-for-Employees/assets/112992245/15a7e04c-4b38-4ebf-9b64-5f1425d160c4)
+
+![Password Generator B](https://github.com/mayamccann/Password-Generator-for-Employees/assets/112992245/19d7e5e5-ed5a-4ea0-b298-1aac01fdc8d8)
 
 
 ## 💡Concluding Wrap-Up
